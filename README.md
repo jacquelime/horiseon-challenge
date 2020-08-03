@@ -22,6 +22,6 @@ Credits
 Built & designed by Horiseon
 Improved by Jackie Mallett
 
-![Image of App] (/assets/images/app1.png)
-![Image of App] (/assets/images/app2.png)
-![Image of App] (/assets/images/app3.png)
+<p align="left">
+<img src="/assets/images/app1.png" width="100%"/>
+</p>
