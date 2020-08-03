@@ -1,13 +1,13 @@
 # horiseon-challenge
 Link:
 
-Requirements
+### Requirements
 Up to date browser and um... a computer :) 
 
-Project/Update Notes
+### Project/Update Notes
 I added alternate verbiage to improve accessibility on images. I consolidated CSS in instances where there was duplicate, unecessary code written. Added organization notes to HTML code as well as CSS code. Consolidated over 20 CSS rules that were superfulous. 
 
-Design Notes
+### Design Notes
 The Search Engine Optimization button was not properly bringing the user to the corresponding SEO Div, so I corrected this.
 
 gitignore 
@@ -15,13 +15,21 @@ I created a gitignore file so as to not commit the .DS_Store from my computer
 
 When: Aug 2, 2020
 
-Technology Used
+### Technology Used
 HTML | CSS
 
-Credits
+### Credits
 Built & designed by Horiseon
 Improved by Jackie Mallett
 
 <p align="left">
 <img src="/assets/images/app1.png" width="100%"/>
+</p>
+
+<p align="left">
+<img src="/assets/images/app2.png" width="100%"/>
+</p>
+
+<p align="left">
+<img src="/assets/images/app3.png" width="100%"/>
 </p>
