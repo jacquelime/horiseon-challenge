@@ -85,6 +85,23 @@ p {
     background-color: #2589bd;
 }
 
+.benefit-items {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-items h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+.benefit-items img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
